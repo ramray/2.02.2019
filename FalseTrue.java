@@ -1,10 +1,8 @@
-package ru.geekbrains.java_one.lesson_a.online;
-
-import java.io.InputStream;
-import java.util.Scanner;
-
 //Написать метод, принимающий на вход два целых числа, и проверяющий что их сумма лежит в пределах
 // от 10 до 20(включительно), если да – вернуть true, в противном случае – false;
+package ru.geekbrains.java_one.lesson_a.online;
+import java.io.InputStream;
+import java.util.Scanner;
 public class FalseTrue {
     public static void main (String[] args) {
         Scanner in = new Scanner(System.in);
